@@ -13,6 +13,6 @@ public class CopiedNames {
         int number = 100000;
         int myInteger = 1000000;
         int myVar = 1234567;
-        int myTntegerOne = 1234567;
+        int myIntegerOne = 1234567;
     }
 }
